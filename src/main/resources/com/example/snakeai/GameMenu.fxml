@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="600.0" styleClass="bd" stylesheets="@CSS/GameMenu.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.snakeai.Controller">
+   <children>
+      <JFXButton fx:id="singleButton" layoutX="212.0" layoutY="412.0" onMousePressed="#playSingleMode" prefHeight="39.0" prefWidth="141.0" stylesheets="@CSS/GameMenu.css" text="Single Mode" />
+      <JFXButton fx:id="multiButton" layoutX="212.0" layoutY="465.0" onMousePressed="#playMultiMode" prefHeight="39.0" prefWidth="141.0" stylesheets="@CSS/GameMenu.css" text="Multiplayer Mode" />
+      <JFXButton fx:id="aiButton" layoutX="212.0" layoutY="516.0" onMousePressed="#playAIMode" prefHeight="39.0" prefWidth="141.0" stylesheets="@CSS/GameMenu.css" text="AI Mode" />
+      <JFXButton fx:id="scoreButton" layoutX="14.0" layoutY="560.0" onMousePressed="#listBoard" prefHeight="28.0" prefWidth="85.0" stylesheets="@CSS/GameMenu.css" text="High Scored" />
+   </children>
+</AnchorPane>

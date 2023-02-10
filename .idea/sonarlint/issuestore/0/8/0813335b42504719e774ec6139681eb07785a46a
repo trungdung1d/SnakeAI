@@ -1,0 +1,73 @@
+
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(”·‰
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ‚Æ‡ıÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(”·¸³ÿÿÿÿÿ
+t	java:S135µ"YReduce the total number of break and continue statements in this loop to use at most one.(˜Á£àıÿÿÿÿ
+c
+java:S2184s"HCast one of the operands of this multiplication operation to a "double".(™¨İ¶ûÿÿÿÿ
+c
+java:S2184s"HCast one of the operands of this multiplication operation to a "double".(™¨İ¶ûÿÿÿÿ
+m
+java:S3008"WRename this field "SCREEN_WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆšîì
+s
+java:S3008"XRename this field "SCREEN_HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¡ßüÿÿÿÿ
+j
+java:S3008"TRename this field "UNIT_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÿÀà
+p
+java:S3008"URename this field "GAME_UNITS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‘…®şÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(âßîè
+E
+java:S1197"*Move the array designators [] to the type.(ÈÊŞíüÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(Ù«İéÿÿÿÿÿ
+1
+java:S3626S"Remove this redundant jump.(ûÁİ…
+I
+java:S1481".Remove this unused "greyscale" local variable.(ËùŞÌüÿÿÿÿ
+B
+java:S1905’"&Remove this unnecessary cast to "int".(åóÒ¯ûÿÿÿÿ
+D
+java:S1905“"&Remove this unnecessary cast to "int".(½Èˆ8·ÿìŸã0
+D	java:S131µ""Add a default case to this switch.(Æóõµıÿÿÿÿ8¸ÿìŸã0
+p
+java:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(ã«›õ8¹ÿìŸã0
+v
+java:S3776Œ"SRefactor this method to reduce its Cognitive Complexity from 212 to the 15 allowed.(¤Èïúÿÿÿÿ8ºÿìŸã0
+[	java:S106¢"9Replace this use of System.out or System.err by a logger.(Á²¨áùÿÿÿÿ8¼ÿìŸã0
+I
+java:S1168£"+Return an empty collection instead of null.(¥¹ï8¼ÿìŸã0
+I
+java:S1168Á"+Return an empty collection instead of null.(¥¹ï8ÄÿìŸã0
+v
+java:S3776Ï"SRefactor this method to reduce its Cognitive Complexity from 233 to the 15 allowed.(Êí…Ïúÿÿÿÿ8ÅÿìŸã0
+D	java:S131Ø""Add a default case to this switch.(Æóõµıÿÿÿÿ8ÇÿìŸã0
+E
+java:S1125ç"'Remove the unnecessary boolean literal.(İÎ°ğ8ÇÿìŸã0
+E
+java:S1125ı"'Remove the unnecessary boolean literal.(İÎ°ğ8ÈÿìŸã0
+E
+java:S1125“"'Remove the unnecessary boolean literal.(İÎ°ğ8ÈÿìŸã0
+E
+java:S1125¼"'Remove the unnecessary boolean literal.(İÎ°ğ8ÉÿìŸã0
+E
+java:S1125Ò"'Remove the unnecessary boolean literal.(İÎ°ğ8ÉÿìŸã0
+E
+java:S1125è"'Remove the unnecessary boolean literal.(İÎ°ğ8ÊÿìŸã0
+E
+java:S1125‘"'Remove the unnecessary boolean literal.(İÎ°ğ8ÊÿìŸã0
+E
+java:S1125§"'Remove the unnecessary boolean literal.(İÎ°ğ8ËÿìŸã0
+E
+java:S1125½"'Remove the unnecessary boolean literal.(İÎ°ğ8ËÿìŸã0
+E
+java:S1125æ"'Remove the unnecessary boolean literal.(İÎ°ğ8ÌÿìŸã0
+E
+java:S1125ü"'Remove the unnecessary boolean literal.(İÎ°ğ8ÌÿìŸã0
+E
+java:S1125’"'Remove the unnecessary boolean literal.(İÎ°ğ8ÍÿìŸã0
+[
+java:S1128"9Remove this unused import 'javafx.scene.shape.Rectangle'.(ÖÉ­Œşÿÿÿÿ8 ¾îŸã0
